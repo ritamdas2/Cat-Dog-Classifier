@@ -1,2 +1,2 @@
 # Cat-Dog-Classifier
-simple pet classifier using MATLAB
+Explored basic machine learning concepts through an image classification case study using MATLAB
